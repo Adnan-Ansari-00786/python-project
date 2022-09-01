@@ -1,2 +1,1 @@
-fewfwegregfdbfdbgrg
-
+print("hello world")
